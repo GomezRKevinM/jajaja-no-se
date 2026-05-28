@@ -1,1 +1,4 @@
-"# jajaja nose este es mi repo" 
+# jajaja nose este es mi repo
+
+Saludos a Yulieth y a Samu
+ 
